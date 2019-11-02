@@ -1,2 +1,1 @@
-# numerical_interferometry
-Fast Optical System Identification by Numerical Interferometry
+# Fast Optical System Identification by Numerical Interferometry
